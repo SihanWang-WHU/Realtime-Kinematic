@@ -1,0 +1,20 @@
+﻿  Main.cpp
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Matrix.h(27,2): warning C4091: “typedef ”: 没有声明变量时忽略“matrix”的左侧
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\RTK.h(15,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\RTK.h(16,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\RTK.h(17,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\RTK.h(18,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(14,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(15,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(16,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(17,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(18,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\SPP_SPV.h(19,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(28,31): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(56,27): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(79,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(102,6): warning C4101: “Val”: 未引用的局部变量
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(137,6): warning C4101: “Val”: 未引用的局部变量
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(223,32): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Main.cpp(167): warning C4715: “testspp”: 不是所有的控件路径都返回值
+  RealTimeKinematic.vcxproj -> F:\学习\大三下\卫星导航算法实习2\RealTimeKinematic\Debug\RealTimeKinematic.exe
